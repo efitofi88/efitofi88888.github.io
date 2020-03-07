@@ -1,0 +1,1 @@
+{"version":3,"sources":["img.css"],"names":[],"mappings":"AAAA,KACI,SAAU,CACV,aAAc,CACd,eAAgB,CAChB,gBACJ","file":"main.cbaedcda.chunk.css","sourcesContent":[".img {\r\n    width: 80%;\r\n    display: block;\r\n    max-width: 240px;\r\n    margin: 20px auto;\r\n}\r\n"]}
